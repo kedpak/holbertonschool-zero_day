@@ -1,1 +1,1 @@
-This is the vi section
+learn how to use vi
